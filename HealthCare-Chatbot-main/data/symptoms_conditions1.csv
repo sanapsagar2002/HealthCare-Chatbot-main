@@ -1,0 +1,97 @@
+Symptom,Condition
+Fever,Flu
+Fever,Common Cold
+Fever,Malaria
+Fever,COVID-19
+Headache,Migraine
+Headache,Tension Headache
+Headache,Sinusitis
+Headache,Cluster Headache
+Cough,Common Cold
+Cough,Bronchitis
+Cough,Asthma
+Cough,Pneumonia
+Sore Throat,Pharyngitis
+Sore Throat,Tonsillitis
+Sore Throat,Common Cold
+Sore Throat,Strep Throat
+Fatigue,Anemia
+Fatigue,Diabetes
+Fatigue,Chronic Fatigue Syndrome
+Fatigue,Hypothyroidism
+Nausea,Gastroenteritis
+Nausea,Food Poisoning
+Nausea,Pregnancy
+Nausea,Motion Sickness
+Chest Pain,Heart Attack
+Chest Pain,Angina
+Chest Pain,Pneumonia
+Chest Pain,GERD
+Shortness of Breath,Asthma
+Shortness of Breath,Heart Failure
+Shortness of Breath,COPD
+Shortness of Breath,Pulmonary Embolism
+Abdominal Pain,Gastritis
+Abdominal Pain,Appendicitis
+Abdominal Pain,Peptic Ulcer
+Abdominal Pain,Gallstones
+Rash,Allergic Reaction
+Rash,Chickenpox
+Rash,Measles
+Rash,Contact Dermatitis
+Dizziness,Vertigo
+Dizziness,Low Blood Pressure
+Dizziness,Dehydration
+Dizziness,Inner Ear Infection
+Back Pain,Muscle Strain
+Back Pain,Herniated Disc
+Back Pain,Arthritis
+Back Pain,Sciatica
+Joint Pain,Arthritis
+Joint Pain,Lupus
+Joint Pain,Gout
+Joint Pain,Rheumatoid Arthritis
+Swelling,Edema
+Swelling,Injury
+Swelling,Infection
+Swelling,Lymphedema
+Weight Loss,Hyperthyroidism
+Weight Loss,Diabetes
+Weight Loss,Cancer
+Weight Loss,Malnutrition
+Blurred Vision,Glaucoma
+Blurred Vision,Diabetes
+Blurred Vision,Cataracts
+Blurred Vision,Macular Degeneration
+Frequent Urination,Diabetes
+Frequent Urination,UTI
+Frequent Urination,Prostate Issues
+Frequent Urination,Overactive Bladder
+Heart Palpitations,Anxiety
+Heart Palpitations,Arrhythmia
+Heart Palpitations,Hyperthyroidism
+Heart Palpitations,Atrial Fibrillation
+Itching,Allergic Reaction
+Itching,Eczema
+Itching,Psoriasis
+Itching,Scabies
+Loss of Appetite,Depression
+Loss of Appetite,Chronic Disease
+Loss of Appetite,Gastrointestinal Disorder
+Loss of Appetite,Infection
+Night Sweats,Tuberculosis
+Night Sweats,Menopause
+Night Sweats,Lymphoma
+Night Sweats,Hyperthyroidism
+Difficulty Swallowing,Esophagitis
+Difficulty Swallowing,Stroke
+Difficulty Swallowing,GERD
+Difficulty Swallowing,Throat Cancer
+Joint Stiffness,Arthritis
+Joint Stiffness,Lupus
+Joint Stiffness,Fibromyalgia
+Joint Stiffness,Rheumatoid Arthritis
+Numbness,Neuropathy
+Numbness,Stroke
+Numbness,Multiple Sclerosis
+Numbness,Carpal Tunnel Syndrome

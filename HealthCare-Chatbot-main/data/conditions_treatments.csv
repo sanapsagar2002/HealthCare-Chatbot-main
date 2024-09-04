@@ -1,0 +1,65 @@
+Condition,Treatment,Precaution
+Flu,Rest; Hydration; Antiviral Medication,Avoid close contact with others; Stay home; Wear a mask
+Common Cold,Rest; Decongestants; Hydration,Avoid sharing personal items; Maintain good hand hygiene
+Migraine,Pain Relievers; Anti-nausea Medications; Rest,Avoid bright lights and loud noises; Manage stress
+Allergies,Antihistamines; Decongestants; Avoid Allergens,Use air purifiers; Keep windows closed during high pollen
+Asthma,Inhalers; Avoid Triggers; Long-term Control Medications,Monitor breathing regularly; Follow an asthma action plan
+COVID-19,Rest; Hydration; Isolation; Antiviral Medications,Follow social distancing; Get vaccinated; Wear masks
+Strep Throat,Antibiotics; Pain Relievers,Avoid close contact; Wash hands frequently
+Sinusitis,Nasal Decongestants; Pain Relievers; Hydration,Use a humidifier; Avoid smoke and other irritants
+Hypertension,Blood Pressure Medications; Low-Salt Diet,Regular exercise; Avoid excessive alcohol; Manage stress
+Diabetes,Insulin; Oral Diabetes Medications; Diet Control,Regular blood sugar monitoring; Maintain a balanced diet
+Bronchitis,Cough Suppressants; Inhalers; Rest,Avoid smoking; Stay hydrated; Get plenty of rest
+Depression,Antidepressants; Therapy; Lifestyle Changes,Maintain a regular routine; Seek social support
+Anxiety,Anxiolytics; Cognitive Behavioral Therapy; Meditation,Avoid caffeine; Practice relaxation techniques
+Malaria,Antimalarial Medications; Fever Management,Use insect repellent; Sleep under mosquito nets
+Pneumonia,Antibiotics; Cough Medicine; Rest,Avoid smoking; Stay away from sick people; Stay hydrated
+GERD,Antacids; Proton Pump Inhibitors; Diet Modification,Avoid spicy and fatty foods; Don't eat before bedtime
+Anemia,Iron Supplements; Vitamin B12; Dietary Changes,Eat iron-rich foods; Avoid tea and coffee with meals
+Eczema,Moisturizers; Steroid Creams; Avoid Irritants,Use mild soaps; Avoid scratching; Wear loose-fitting clothing
+Arthritis,Anti-inflammatory Drugs; Physical Therapy; Exercise,Maintain a healthy weight; Avoid repetitive joint strain
+UTI,Antibiotics; Pain Relievers; Hydration,Urinate frequently; Avoid irritants like caffeine
+Hypertension,Antihypertensives; Lifestyle Modifications,Reduce salt intake; Exercise regularly; Monitor blood pressure
+Hypothyroidism,Thyroid Hormone Replacement,Regularly monitor thyroid levels; Avoid excessive soy
+Hyperthyroidism,Antithyroid Medications; Beta-blockers,Avoid iodine-rich foods; Regularly monitor thyroid levels
+Osteoporosis,Calcium and Vitamin D Supplements; Bone Density Medications,Weight-bearing exercises; Avoid falls; Maintain a healthy diet
+Gout,Anti-inflammatory Medications; Uric Acid-Lowering Drugs,Avoid alcohol and purine-rich foods; Stay hydrated
+Psoriasis,Topical Treatments; Phototherapy; Systemic Medications,Avoid skin injuries; Manage stress
+Alzheimer's Disease,Cholinesterase Inhibitors; NMDA Antagonists,Regular cognitive activities; Maintain a healthy diet
+Bipolar Disorder,Mood Stabilizers; Antipsychotic Medications; Therapy,Maintain a regular sleep schedule; Avoid alcohol and drugs
+Schizophrenia,Antipsychotic Medications; Psychosocial Therapy,Avoid substance abuse; Regularly take prescribed medication
+COPD,Bronchodilators; Inhaled Steroids; Oxygen Therapy,Avoid smoking; Manage airway infections
+Chronic Kidney Disease,Blood Pressure Medications; Dialysis; Kidney Transplant,Monitor diet and fluid intake; Avoid nephrotoxic drugs
+Epilepsy,Antiepileptic Drugs; Vagus Nerve Stimulation; Surgery,Avoid triggers; Take medication regularly
+IBS (Irritable Bowel Syndrome),Dietary Modifications; Fiber Supplements; Antispasmodic Medications,Avoid trigger foods; Manage stress
+Lupus,Anti-inflammatory Medications; Immune Suppressants,Avoid sun exposure; Manage stress
+Multiple Sclerosis,Disease-Modifying Therapies; Corticosteroids; Physical Therapy,Maintain regular exercise; Manage heat exposure
+Chronic Fatigue Syndrome,Graded Exercise Therapy; Cognitive Behavioral Therapy,Maintain regular sleep habits; Manage stress
+Celiac Disease,Gluten-Free Diet; Vitamin and Mineral Supplements,Avoid gluten-containing foods; Monitor for cross-contamination
+Anorexia Nervosa,Nutritional Rehabilitation; Therapy; Medication,Seek regular medical follow-up; Avoid excessive exercise
+Bulimia Nervosa,Cognitive Behavioral Therapy; Antidepressants,Regularly monitor eating habits; Seek social support
+ADHD,Stimulant Medications; Behavioral Therapy,Maintain a structured routine; Avoid distractions
+Obsessive-Compulsive Disorder,Antidepressants; Cognitive Behavioral Therapy,Practice stress management; Avoid compulsive behaviors
+Parkinson's Disease,Dopaminergic Medications; Physical Therapy; Deep Brain Stimulation,Maintain regular exercise; Manage stress
+Rheumatoid Arthritis,DMARDs; Biological Agents; Physical Therapy,Maintain joint mobility; Manage pain
+Hyperlipidemia,Statins; Dietary Changes; Lifestyle Modifications,Reduce intake of saturated fats; Exercise regularly
+Obesity,Dietary Modifications; Physical Activity; Weight-Loss Medications,Follow a balanced diet; Monitor portion sizes
+Gastritis,Antacids; Proton Pump Inhibitors; H. pylori Eradication,Avoid spicy foods; Limit alcohol and NSAIDs
+Peptic Ulcer,Antibiotics for H. pylori; Acid Reducers; Lifestyle Changes,Avoid NSAIDs; Manage stress
+Hepatitis,Antiviral Medications; Liver Transplant,Avoid alcohol; Get vaccinated
+Chronic Back Pain,Pain Relievers; Physical Therapy; Exercise,Maintain good posture; Avoid heavy lifting
+Scoliosis,Bracing; Physical Therapy; Surgery,Maintain regular monitoring; Perform exercises to strengthen core
+Osteoarthritis,Pain Relievers; Physical Therapy; Joint Replacement,Maintain a healthy weight; Engage in low-impact exercises
+Gout,Uric Acid-Lowering Medications; Anti-inflammatory Drugs,Avoid high-purine foods; Stay hydrated
+Shingles,Antiviral Medications; Pain Relievers,Get vaccinated; Keep the rash clean and dry
+ADHD,Stimulant Medications; Behavioral Therapy,Create structured routines; Break tasks into smaller steps
+Conjunctivitis (Pink Eye),Antibacterial or Antiviral Eye Drops; Allergy Medications,Avoid touching eyes; Maintain good hygiene
+Tonsillitis,Antibiotics; Pain Relievers; Tonsillectomy,Avoid irritants; Stay hydrated
+Sciatica,Pain Relievers; Physical Therapy; Surgery,Practice good posture; Avoid heavy lifting
+Kidney Stones,Pain Relievers; Hydration; Shock Wave Therapy,Stay hydrated; Avoid excessive salt intake
+UTIs (Urinary Tract Infections),Antibiotics; Pain Relievers; Hydration,Urinate frequently; Avoid irritants like caffeine
+Acne,Topical Treatments; Antibiotics; Retinoids,Avoid touching your face; Cleanse gently
+Skin Rash,Antihistamines; Steroid Creams; Moisturizers,Avoid irritants; Keep the skin hydrated
+Insomnia,Cognitive Behavioral Therapy; Sleep Aids; Sleep Hygiene,Maintain a regular sleep schedule; Avoid caffeine before bed
+Sleep Apnea,CPAP Therapy; Weight Loss; Surgery,Maintain a healthy weight; Avoid alcohol and sedatives
+Carpal Tunnel Syndrome,Wrist Splints; Anti-inflammatory Medications; Surgery,Avoid repetitive wrist movements; Take regular breaks
