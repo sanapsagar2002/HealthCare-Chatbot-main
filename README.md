@@ -61,25 +61,7 @@ python chatbot.py
 - `conditions_treatments.csv`: Treatments for various conditions
 - `doctors.csv`: List of available doctors
 - `appointments.csv`: Record of booked appointments
-
-## Contributing
-Contributions to improve HealthCare Chatbot are welcome. Please follow these steps:
-
-1. Fork the repository
-2. Create a new branch 
-```bash
-git checkout -b feature/AmazingFeature
-```
-4. Commit your changes 
-```bash
-git commit -m 'Add some AmazingFeature'
-```
-5. Push to the branch 
-```bash
-git push origin feature/AmazingFeature
-```
-6. Open a Pull Request
-
+  
 ## Acknowledgements
 - [Flask](https://flask.palletsprojects.com/)
 - [NLTK](https://www.nltk.org/)
