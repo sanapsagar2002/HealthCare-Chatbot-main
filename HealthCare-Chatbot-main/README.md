@@ -83,15 +83,6 @@ git push origin feature/AmazingFeature
 ## License
 This project is open source and available under the [MIT License](LICENSE).
 
-## Contact
-Brijesh Adeshara - adesharabrijesh8@gmail.com
-
-Dharmik Thakkar - thakkardharmik437@gmail.com
-
-Vishwas Chaudhary - vishwaschaudhary21@gnu.ac.in
-
-Project Link: [https://github.com/AdesharaBrijesh/HealthCare-Chatbot](https://github.com/AdesharaBrijesh/HealthCare-Chatbot)
-
 ## Acknowledgements
 - [Flask](https://flask.palletsprojects.com/)
 - [NLTK](https://www.nltk.org/)
